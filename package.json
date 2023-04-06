@@ -3,5 +3,11 @@
   "version": "0.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "*",
+    "pdf-lib": "^1.17.1",
+    "pdf2json": "^3.0.3",
+    "pdfjs-dist": "^3.5.141"
   }
 }
